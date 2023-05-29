@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: DS Club
+  navbar:
+    left:
+      - href: index.qmd
+        text: Обо мне
+      - projects.qmd # Мои проекты
+      - team.qmd # Команда
+      
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true
+
+
+

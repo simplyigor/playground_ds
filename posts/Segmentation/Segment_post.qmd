@@ -1,0 +1,50 @@
+---
+title: "Сегментация"
+description: "Проводим сегментацию клиентов"
+date: "4/10/2023"
+categories:
+  - Segmentation
+  - K-means
+listing:
+  id: segment
+  contents: segment-solutions
+  sort: "title"
+  type: grid
+website:
+  comments: 
+    utterances:
+      repo: simplyigor/comments_test
+---
+
+## Задание 
+
+1. Выберите датасет, который содержит информацию о объектах, которые можно разделить на несколько групп.
+
+2. Используя алгоритм k-means, разделите объекты на заданное количество групп.
+
+3. Определите оптимальное количество групп с помощью метода локтя или иного подходящего метода.
+
+4. Проанализируйте полученные результаты и сделайте выводы о характеристиках каждой группы.
+
+## Решения команд
+
+:::{#segment}
+:::
+
+## Комментарии
+
+<script src="https://giscus.app/client.js"
+        data-repo="simplyigor/comments_test"
+        data-repo-id="R_kgDOJlj_gw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOJlj_g84CWoYN"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="ru"
+        crossorigin="anonymous"
+        async>
+</script>

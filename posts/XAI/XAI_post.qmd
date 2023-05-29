@@ -1,0 +1,44 @@
+---
+title: "XAI"
+description: "Изучаем инструменты интерпретируемого ML"
+date: "3/10/2023"
+categories:
+  - XAI
+  - Inerpretability
+listing:
+  id: xai
+  contents: xai-solutions
+  sort: "title"
+  type: grid
+website:
+  comments: 
+    utterances:
+      repo: simplyigor/comments_test
+---
+
+## Задание 
+
+Напишите эссе на тему "Расширенный искусственный интеллект (XAI): принципы работы и влияние на общество". В своей работе необходимо рассмотреть основные принципы работы XAI, его возможности и ограничения, а также потенциальные последствия для общества, включая этические и социальные аспекты. Также необходимо проанализировать существующие примеры применения XAI в различных отраслях и оценить их эффективность. 
+
+## Решения команд
+
+:::{#xai}
+:::
+
+## Комментарии
+
+<script src="https://giscus.app/client.js"
+        data-repo="simplyigor/comments_test"
+        data-repo-id="R_kgDOJlj_gw"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOJlj_g84CWoYN"
+        data-mapping="url"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="bottom"
+        data-theme="light"
+        data-lang="ru"
+        crossorigin="anonymous"
+        async>
+</script>

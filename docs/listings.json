@@ -1,0 +1,27 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/posts/XAI/XAI_post.html",
+      "/posts/Segmentation/Segment_post.html"
+    ]
+  },
+  {
+    "listing": "/posts/XAI/XAI_post.html",
+    "items": [
+      "/posts/XAI/xai-solutions/team1_xai.html",
+      "/posts/XAI/xai-solutions/team2_xai.html"
+    ]
+  },
+  {
+    "listing": "/posts/XAI_post.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/Segmentation/Segment_post.html",
+    "items": [
+      "/posts/Segmentation/segment-solutions/team1_segment.html",
+      "/posts/Segmentation/segment-solutions/team2_segment.html"
+    ]
+  }
+]

@@ -1,0 +1,8 @@
+---
+title: "Проекты"
+listing:
+  contents: "*/*_post.qmd"
+  type: default
+  categories: true
+---
+
