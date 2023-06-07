@@ -348,5 +348,12 @@
     "title": "Имя Фамилия",
     "section": "Проекты",
     "text": "Проекты"
+  },
+  {
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "Расписание",
+    "section": "",
+    "text": "Привет! Здесь можно узнать когда и где мы собираемся:"
   }
 ]
