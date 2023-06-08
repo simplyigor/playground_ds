@@ -1,0 +1,6 @@
+---
+title: "Портфолио"
+listing:
+  contents: portfolios
+  type: grid
+---

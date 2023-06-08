@@ -9,8 +9,8 @@
   {
     "listing": "/posts/XAI/XAI_post.html",
     "items": [
-      "/posts/XAI/xai-solutions/team1_xai.html",
-      "/posts/XAI/xai-solutions/team2_xai.html"
+      "/posts/XAI/xai-solutions/xai_team1.html",
+      "/posts/XAI/xai-solutions/xai_team2.html"
     ]
   },
   {
@@ -33,6 +33,57 @@
       "/posts/Segmentation/segment-solutions/team2_segment.html",
       "/posts/XAI/xai-solutions/team2_xai.html",
       "/posts/Segmentation/Segment_post.html"
+    ]
+  },
+  {
+    "listing": "/teams.html",
+    "items": [
+      "/posts/team1_teams.html",
+      "/posts/team2_teams.html"
+    ]
+  },
+  {
+    "listing": "/portfolios.html",
+    "items": [
+      "/portfolios/chernykh.html",
+      "/portfolios/ivanov.html"
+    ]
+  },
+  {
+    "listing": "/teams/team_1.html",
+    "items": [
+      "/teams/solutions/team_1/segment_team1.html",
+      "/teams/solutions/team_1/xai_team1.html"
+    ]
+  },
+  {
+    "listing": "/teams/groups/team_1.html",
+    "items": []
+  },
+  {
+    "listing": "/teams/groups/team1_hello.html",
+    "items": []
+  },
+  {
+    "listing": "/teams/team1_hello.html",
+    "items": [
+      "/teams/solutions/team_1/segment_team1.html",
+      "/teams/solutions/team_1/xai_team1.html"
+    ]
+  },
+  {
+    "listing": "/teams/team1_teams.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/teams/team1_teams.html",
+    "items": []
+  },
+  {
+    "listing": "/posts/team1_teams.html",
+    "items": [
+      "/posts/Segmentation/segment-solutions/segment_team1.html",
+      "/posts/XAI/xai-solutions/xai_team1.html"
     ]
   }
 ]

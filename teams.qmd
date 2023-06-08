@@ -1,0 +1,6 @@
+---
+title: "Команды"
+listing:
+  contents: "*/*_teams.qmd"
+  type: grid
+---

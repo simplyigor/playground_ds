@@ -1,0 +1,5 @@
+---
+title: "Катя Черных"
+image: /images/chernykh.jpg
+toc: false
+---

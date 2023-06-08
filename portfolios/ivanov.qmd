@@ -1,0 +1,5 @@
+---
+title: "Настя Хрулева"
+image: /images/khruleva.jpg
+toc: false
+---
